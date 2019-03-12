@@ -1,4 +1,5 @@
 ## Bouquet.ai
+---
 > Talk to your data !
 
 * startup basée à Paris, Lyon et SF
