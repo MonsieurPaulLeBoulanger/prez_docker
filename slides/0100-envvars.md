@@ -1,6 +1,6 @@
 ## Variables d'environement
-Utilisation de variables d'environnement dans les ficher yml docker
+Utilisation de variables d'environnement dans les fichers yaml docker pour :
 * spécifier un nom de volume préfixé develop / staging /production
-* spécification de la sortie syslog
-* labels traefik
+* configurer le logging syslog
+* définir les labels traefik
 
