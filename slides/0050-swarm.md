@@ -1,5 +1,5 @@
 ## Swarm
 * Swarm (presque) partout
 * 1 swarm par environnement
-* 3 managers en dev, 3 workers supplémentaires en staging et prod
+* 5 managers en dev, en cours d'étude pour staging et prod (workers? manager drain ?)
 * utilisation de volume EBS avec rexray (postgres, elastic...)

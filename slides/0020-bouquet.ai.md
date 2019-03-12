@@ -2,5 +2,5 @@
 > Talk to your data !
 
 * startup basée à Paris, Lyon et SF
-* chatbot & analyse de données
-* Slack / Skype / Messenger / MS Teams / ejabberd
+* Aristotle: Assistant personnel pour l'analyse de données. chatbot.
+* Slack / Skype / Messenger / MS Teams / Alexa /ejabberd
