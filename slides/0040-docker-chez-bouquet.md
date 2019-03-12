@@ -1,5 +1,6 @@
 ## Docker chez Bouquet
 ---
-schéma de présentation
-client web -> apache -> elb -> traefik -> conteneurs
-penser au registry docker et à jenkins
+* infra AWS
+* 5 managers
+* 3 Availability Zones
+* 1 registry privée
