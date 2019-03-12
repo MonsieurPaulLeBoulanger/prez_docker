@@ -1,0 +1,12 @@
+version: "3.5"
+
+services:
+  prez:
+    image: prez:latest
+#    command: prez --serve --port=9000  --watch --slides-dir=/opt/slides 
+    command: /bin/bash /start.sh
+    ports: 
+      - 9000:9000
+    volumes:
+      - ./:/opt/prez
+      - ./start.sh:/start.sh
