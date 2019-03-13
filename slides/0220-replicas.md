@@ -2,9 +2,10 @@
 ---
 <br/>
 Non respect du nombre de réplicas sur un déploiement  
-  
-* docker service scale
-* éventuellement scale=0 avant
+* 4/3 replicas
+* sur les 4, un seul avec le bon tag
+* docker service scale=3 sans effet
+* scale=0 puis scale=3
 
 note:
 peut-être recontré enc as d'erreur sur le déploiement genre contrainte de déploiement temporairement non satisfaite
