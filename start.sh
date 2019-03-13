@@ -6,4 +6,8 @@ then
   prez --init
 fi
 
-prez --serve --port 9000 --watch  --title="docker chez bouquet.ai" --theme white
+if [ -n "$1" ];
+then
+  theme=" --theme $1"
+fi
+prez --serve --port 9000 --watch  --title="docker chez bouquet.ai" ${theme}

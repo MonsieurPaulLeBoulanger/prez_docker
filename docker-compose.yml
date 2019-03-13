@@ -3,9 +3,9 @@ version: "3.5"
 services:
   prez:
     image: prez:latest
-    command: /bin/bash /start.sh
+    command: /bin/bash /start.sh ${theme}
     ports: 
-      - 9000:9000
+      - ${port:-9000}:9000
     volumes:
       - ./:/opt/prez
       - ./start.sh:/start.sh
