@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Jenkins
+$background:images/background.svg$
+## Jenkins
 ---
 * scrute les les commits sur les branches develop, staging et production
 * déclenche le build des images

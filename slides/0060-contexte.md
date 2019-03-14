@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Deux objectifs
+$background:images/background.svg$
+## Deux objectifs
 ---
 * gestion de notre stack Saas
 * gestion de stacks on-premise

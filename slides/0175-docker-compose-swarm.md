@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Docker-compose vs Swarm
+$background:images/background.svg$
+## Docker-compose vs Swarm
 ---
 * spécifications différentes entre les fichiers yml docker et compose
 * maintenance des 2 formats complèxe

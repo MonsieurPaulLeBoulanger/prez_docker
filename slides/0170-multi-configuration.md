@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Multi-configuration
+$background:images/background.svg$
+## Multi-configuration
 ---
 Environnements différents: dev / staging / prod  
 

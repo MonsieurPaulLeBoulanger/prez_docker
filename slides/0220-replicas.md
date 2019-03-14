@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Réplicas
+$background:images/background.svg$
+## Réplicas
 ---
 <br/>
 Non respect du nombre de réplicas sur un déploiement  

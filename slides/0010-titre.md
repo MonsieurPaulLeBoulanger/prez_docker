@@ -1,4 +1,5 @@
 <br/>
 ## Docker chez Bouquet.ai
 ---
-![bouquet](images/bouquet.svg)
+<br/>
+![bouquet](images/docker_chez_bouquet.svg)

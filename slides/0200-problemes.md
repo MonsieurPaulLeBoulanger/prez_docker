@@ -1,3 +1,4 @@
+$background:images/background.svg$
 <br/>
-## ![bouquet](images/bouquet_small.svg) Problèmes
+## Problèmes
 ---

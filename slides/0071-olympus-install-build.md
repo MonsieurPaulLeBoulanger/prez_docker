@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Olympus : install & build
+$background:images/background.svg$
+## Olympus : install & build
 ---
 * clone les sources d'un ou plusieurs composants
 * construit les images docker

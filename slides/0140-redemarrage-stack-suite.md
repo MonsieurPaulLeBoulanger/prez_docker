@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Redémarrage d'un service ou stack
+$background:images/background.svg$
+## Redémarrage d'un service ou stack
 ---
 Solution: utilisation d'une variable type timestamp
 * variable ISO_DATE définie et exportée par Olympus

@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Bouquet.ai
+$background:images/background.svg$
+## Bouquet.ai
 ---
 > Talk to your data !
 

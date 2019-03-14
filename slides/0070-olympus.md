@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Here comes a new challenger: Olympus
+$background:images/background.svg$
+## Here comes a new challenger: Olympus
 ---
 * ensemble de scripts bash, exécutés avec make
 * assure la construction des images docker des composants

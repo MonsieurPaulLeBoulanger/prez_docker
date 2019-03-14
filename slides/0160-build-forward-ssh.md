@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Build: forward SSH
+$background:images/background.svg$
+## Build: forward SSH
 ---
 Avec Docker 18.09: ***DOCKER_BUILDKIT=1***  
 

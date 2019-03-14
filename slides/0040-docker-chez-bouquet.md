@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg) Docker chez Bouquet
+$background:images/background.svg$
+## Docker chez Bouquet
 ---
 * AWS
 * Swarm (mais pas que)

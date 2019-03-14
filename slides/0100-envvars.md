@@ -1,4 +1,5 @@
-## ![bouquet](images/bouquet_small.svg)ssh Variables d'environement
+$background:images/background.svg$
+## Variables d'environement
 ---
 Utilisation de variables d'environnement dans les fichiers yaml docker pour :
 * spécifier un nom de volume préfixé develop / staging /production
