@@ -9,4 +9,4 @@ Non respect du nombre de réplicas sur un déploiement
 * scale=0 puis scale=3
 
 note:
-peut-être recontré enc as d'erreur sur le déploiement genre contrainte de déploiement temporairement non satisfaite
+peut-être recontré en cas d'erreur sur le déploiement genre contrainte de déploiement temporairement non satisfaite
