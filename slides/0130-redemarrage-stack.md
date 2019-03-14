@@ -8,4 +8,4 @@ et
 
 ***un Update sera effectué***
 
-Cela pose problème si on veut redéployer en modifiant un fichier de configuration par ex.
+Problématique pour redémarrer le même service avec un ficher de configuration différent.

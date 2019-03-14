@@ -12,4 +12,4 @@ services:
         - ISO_DATE=${ISO_DATE}
 ```
 
-***le service sera bien redémarré***
+***le service sera bien redémarré sur un nouveau deploy***
