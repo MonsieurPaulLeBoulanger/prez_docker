@@ -1,4 +1,4 @@
-## Olympus : start
+## ![bouquet](images/bouquet_small.svg) Olympus : start
 ---
 * démarre des stacks correspondant à des domaines fonctionnels :  
 

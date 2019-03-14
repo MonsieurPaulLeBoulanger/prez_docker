@@ -1,4 +1,4 @@
-## Multi-configuration
+## ![bouquet](images/bouquet_small.svg) Multi-configuration
 ---
 Environnements différents: dev / staging / prod  
 

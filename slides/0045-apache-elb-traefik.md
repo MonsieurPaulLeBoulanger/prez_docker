@@ -1,4 +1,4 @@
-## Apache / ELB / Traefik
+## ![bouquet](images/bouquet_small.svg) Apache / ELB / Traefik
 * Apache: point d'entrée unique, proxyPass sur l'elb
 * ELB: équilibre la charge entre les noeuds disponibles (ASG)
 * Traefik: 

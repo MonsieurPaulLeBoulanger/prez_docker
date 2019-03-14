@@ -1,4 +1,4 @@
-## Update Docker
+## ![bouquet](images/bouquet_small.svg) Update Docker
 ---
 * processus de mise à jour système mensuel
 * update Docker 18.09.1 à 18.09.3 (correction CVE-2019-5736)

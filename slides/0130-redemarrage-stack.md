@@ -1,4 +1,4 @@
-## Redémarrage d'un service ou stack
+## ![bouquet](images/bouquet_small.svg) Redémarrage d'un service ou stack
 ---
 le redémarrage d'un service est impossible si :
 * le tag de l'image est identique à celui du service déployé

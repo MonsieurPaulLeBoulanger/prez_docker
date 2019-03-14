@@ -3,3 +3,16 @@
 #chapter-foo p {
 	text-transform: uppercase;
 }
+
+.reveal section {
+	color: #51646a;
+}
+
+.reveal section h2{
+	color: #51646a;
+}
+
+.reveal section img{ 
+   border: 0px;
+   box-shadow: 0px 0px #888888;
+}

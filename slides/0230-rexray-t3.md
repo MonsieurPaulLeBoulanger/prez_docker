@@ -1,4 +1,4 @@
-## Plugin rexray
+## ![bouquet](images/bouquet_small.svg) Plugin rexray
 ---
 <br/>
 Ce plugin permet d'utiliser des volumes amazon (EBS)

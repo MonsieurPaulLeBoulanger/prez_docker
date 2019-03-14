@@ -1,4 +1,4 @@
-## Bouquet.ai
+## ![bouquet](images/bouquet_small.svg) Bouquet.ai
 ---
 > Talk to your data !
 

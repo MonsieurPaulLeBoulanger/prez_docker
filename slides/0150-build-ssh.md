@@ -1,4 +1,4 @@
-## Build: SSH
+## ![bouquet](images/bouquet_small.svg) Build: SSH
 ---
 Avant Docker 18.09, impossibilité de forwarder un agent SSH dans un conteneur  
 

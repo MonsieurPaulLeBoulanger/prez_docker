@@ -1,4 +1,4 @@
-## Docker chez Bouquet
+## ![bouquet](images/bouquet_small.svg) Docker chez Bouquet
 ---
 * AWS
 * Swarm (mais pas que)

@@ -1,4 +1,4 @@
-## Deux objectifs
+## ![bouquet](images/bouquet_small.svg) Deux objectifs
 ---
 * gestion de notre stack Saas
 * gestion de stacks on-premise

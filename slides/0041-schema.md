@@ -1,1 +1,1 @@
-$background:images/AWS_swarm.png$
+![aws_swarm](images/AWS_swarm.png)

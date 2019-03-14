@@ -1,3 +1,3 @@
 <br/>
-## Contraintes
+## ![bouquet](images/bouquet_small.svg) Contraintes
 ---

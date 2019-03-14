@@ -1,4 +1,4 @@
-## Env file
+## ![bouquet](images/bouquet_small.svg) Env file
 ---
 Utilisation de variables d'environnement à l'intérieur des conteneurs
 * déclaration de variables pour le fonctionnement de l'application conteneurisée

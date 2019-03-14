@@ -1,3 +1,3 @@
 <br/>
-## Problèmes
+## ![bouquet](images/bouquet_small.svg) Problèmes
 ---

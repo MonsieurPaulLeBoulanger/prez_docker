@@ -1,4 +1,4 @@
-## Instabilité Swarm
+## ![bouquet](images/bouquet_small.svg) Instabilité Swarm
 ---
 <br/>
 * 1 perte de noeuds peut entrainer une ***Docker Swarm Dance***

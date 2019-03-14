@@ -1,1 +1,1 @@
-$background:images/managers.png$
+![managers](images/managers.png)
