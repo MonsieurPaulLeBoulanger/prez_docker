@@ -1,8 +1,10 @@
 $background:images/background.svg$
 ## Bouquet.ai
 ---
-> Talk to your data !
 
+***Talk to your data !***
+
+<br/>
 * startup basée à Paris, Lyon et SF
-* Aristotle: Assistant personnel pour l'analyse de données. chatbot.
-* Slack / Skype / Messenger / MS Teams / Alexa /ejabberd
+* Aristotle : Assistant personnel pour l'analyse de données, chatbot.
+* Slack / Skype / Messenger / MS Teams / Alexa / ejabberd
