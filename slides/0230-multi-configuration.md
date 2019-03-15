@@ -1,7 +1,7 @@
 $background:images/background.svg$
 ## Multi-configuration
 ---
-Environnements différents: dev / staging / prod  
+Environnements différents : dev / staging / prod  
 
 * fichiers yml docker de base fournis par Olympus
 * ajout de fichiers yml docker spécifiques

@@ -1,9 +1,9 @@
 $background:images/background.svg$
 ## Apache / ELB / Traefik
-* Apache: point d'entrée unique, proxyPass sur l'elb
-* ELB: équilibre la charge entre les noeuds disponibles (ASG)
-* Traefik: 
-  * accès aux conteneurs par une route http plutôt qu'un port
+* Apache : point d'entrée unique, proxyPass sur l'ELB
+* ELB : équilibre la charge entre les noeuds disponibles (ASG)
+* Traefik : 
+  * accès aux conteneurs par une route http plutôt que par un port
   * équilibre la charge au sein du swarm
 
 

@@ -1,7 +1,7 @@
 $background:images/background.svg$
-## Build: forward SSH
+## Build : forward SSH
 ---
-Avec Docker 18.09: ***DOCKER_BUILDKIT=1***  
+Avec Docker 18.09 : ***DOCKER_BUILDKIT=1***  
 
 Forwarding de l'agent du host dans le conteneur (Dockerfile)
 
