@@ -19,10 +19,14 @@ for f in *.md;
 do
   name=${f#*-} # get string after the first dash)
   num=$(printf "%04d" ${i})
-
-  cmd="git mv ${f} ${num}-${name}"
-  echo ${cmd}
-  eval ${cmd}
+  target="${num}-${name}"
+ 
+  if [ "${f}" != "${target}" ];
+  then
+      cmd="git mv ${f} ${target}"
+      echo ${cmd}
+      eval ${cmd}
+  fi
   i=$((i+${STEP}))  
 done
 
