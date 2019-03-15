@@ -10,6 +10,11 @@ port=10000 theme=black docker-compose-up
 ```
 Will start the container on the port 10000 with the black theme.
 
+# Renaming
+execute ***./rename.sh*** to rename your slides filename.  
+Starting from 0000, each file will be assigned a new number and so a new name.  
+/!\It's not a ***mv*** but a ***git mv***  
+
 # Writing guidelines
 
 * new slides must be added in slides/
