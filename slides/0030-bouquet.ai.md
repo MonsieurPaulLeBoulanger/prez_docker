@@ -4,7 +4,6 @@ $background:images/background.svg$
 
 ***Talk to your data !***
 
-<br/>
-* startup basée à Paris, Lyon et SF
-* Aristotle : Assistant personnel pour l'analyse de données, chatbot.
-* Slack / Skype / Messenger / MS Teams / Alexa / ejabberd
+* startup basée à Paris, Lyon et SF  
+* Aristotle : Assistant personnel pour l'analyse de données, chatbot.  
+* Slack / Skype / Messenger / MS Teams / Alexa / ejabberd  

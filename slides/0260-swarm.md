@@ -1,7 +1,7 @@
 $background:images/background.svg$
 ## Instabilité Swarm
 ---
-<br/>
+
 * 1 perte de noeuds peut entrainer une ***Docker Swarm Dance***
 * stabilité accrue avec ***5 managers***  
 &nbsp;<br/>

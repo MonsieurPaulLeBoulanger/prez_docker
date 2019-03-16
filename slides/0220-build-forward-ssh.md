@@ -1,13 +1,13 @@
 $background:images/background.svg$
-## Build : forward SSH
+#### Dépendance npm après Docker 18.09
 ---
-Avec Docker 18.09 : ***DOCKER_BUILDKIT=1***  
 
-Forwarding de l'agent du host dans le conteneur (Dockerfile)
+```sh
+DOCKER_BUILDKIT=1 docker build --ssh default -t .
+```
 
-***RUN --mount=type=ssh npm ci --engine-strict***
+![after-docker-1809](images/after-docker-1809.png)
 
-<br/>
-Activation de BUILDKIT
 
-***DOCKER_BUILDKIT=1 docker build --progress plain --ssh default***
+***astuce***
+* `--progress=plain` permet de debugger l'output du build plus facilement

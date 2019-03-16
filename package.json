@@ -1,0 +1,16 @@
+{
+  "name": "prez_docker",
+  "version": "1.0.0",
+  "scripts": {
+    "init": "prez --init",
+    "start": "prez --serve --port 9000 --watch --title='docker chez bouquet.ai' --theme=black"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsieurPaulLeBoulanger/prez_docker.git"
+  },
+  "dependencies": {
+    "marked": "0.6.1",
+    "prez": "4.7.0"
+  }
+}
