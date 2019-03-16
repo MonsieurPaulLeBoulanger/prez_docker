@@ -1,11 +1,13 @@
 $background:images/background.svg$
-## Redémarrage d'un service ou stack
+#### Redémarrage d'un service (stack deploy)
 ---
-le redémarrage d'un service est impossible si :
-* le tag de l'image est identique à celui du service déployé
-et
+
+***Redémarrage d'un service impossible si***
+
+* tag identique (ex: latest)
 * le fichier yaml docker est identique  
 
-***un Update sera effectué***
+note:
 
-Problématique pour redémarrer le même service avec un ficher de configuration différent.
+Exemple de déploiement qui passe sur jenkins mais aucun changement visible en prod
+utilisation de docker service update
