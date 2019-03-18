@@ -3,3 +3,6 @@ $background:images/background.svg$
 ---
 * 1 conteneur par client
 * etc etc
+
+pourquoi docker
+pourquoi swarm
