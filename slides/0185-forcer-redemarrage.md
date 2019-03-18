@@ -1,11 +1,8 @@
 $background:images/background.svg$
-## Redémarrage d'un service ou stack
+## Forcer un Redémarrage
 ---
-TODO JPH
 
-***Problématique pour redémarrer le même service avec un ficher de configuration différent.***
-
-Solution: utilisation d'une variable type timestamp
+utilisation d'une variable type timestamp
 * variable ISO_DATE définie et exportée par Olympus
 * ajout de cette variable dans le fichier yaml docker :
 ```
@@ -17,3 +14,7 @@ services:
 ```
 
 -> le service sera bien redémarré sur une action ***deploy***
+
+note:
+* pas besoin d'avoir une commande spécifique de restart
+* sert si par ex conteneur est planté mais pas exit

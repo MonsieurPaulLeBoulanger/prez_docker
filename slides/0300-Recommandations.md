@@ -2,6 +2,14 @@ $background:images/background.svg$
 ## Recommandations
 ---
 
-* dimensionnement des conteneurs
+* dimensionner les conteneurs
+```sh
+deploy:
+  resources:
+    limits:
+      cpus: "0.50"
+      memory: 256M
+```
+
 * nombre de manager
-* amélioration du build (multi-stage, layers,...)
+* amélioration du build (multi-stage, layers...)

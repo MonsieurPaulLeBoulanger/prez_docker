@@ -10,4 +10,4 @@ DOCKER_BUILDKIT=1 docker build --ssh default -t .
 
 
 ***astuce***
-* `--progress=plain` permet de debugger l'output du build plus facilement
+* ***--progress=plain*** permet de debugger la sortie du build plus facilement
