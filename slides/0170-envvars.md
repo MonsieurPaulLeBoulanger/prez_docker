@@ -1,11 +1,16 @@
 $background:images/background.svg$
 ## Variables d'environement
 ---
-Utilisation de variables d'environnement dans les fichiers yaml docker pour :
-* spécifier un nom de volume préfixé develop / staging / production
+Utilisation de variables d'environnement dans `docker-compose.yml` pour :
+* gestion develop/staging/production
 * configurer le logging syslog
 * définir les labels traefik
 
+![envvars](images/envvars.png)
+
+```sh
+ENV=staging TAG=1.2.1 \
+  docker stack deploy -c docker-compose.yml stack_name
+```
 note:
-* variables pour la gestion des différences entre les environemment
 * peut-être remplacer par docker-app (trop jeune ?)
