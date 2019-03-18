@@ -5,18 +5,18 @@
 }
 
 .reveal section {
-	color: #DDDDDD;
+	color: #51646a;
 }
 
 .reveal section h2{
-	color: #EEEEEE;
+	color: #51646a;
 }
 
-.reveal section img{ 
+.reveal section img{
    border: 0px;
    box-shadow: 0px 0px #888888;
 }
 
 .reveal pre {
-        width: 100%;
+  width: 100%;
 }

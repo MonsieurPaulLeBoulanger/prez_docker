@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "init": "prez --init",
-    "start": "prez --serve --port 9000 --watch --title='docker chez bouquet.ai' --theme=black"
+    "hack": "prez --serve --port 9000 --watch --title='docker chez bouquet.ai'",
+    "live": "prez --serve --port 9000 --such-notes --title='docker chez bouquet.ai'"
   },
   "repository": {
     "type": "git",

@@ -1,11 +1,13 @@
 $background:images/background.svg$
-#### Redémarrage d'un service (stack deploy)
+## stack deploy
 ---
+TODO JPH
 
 ***Redémarrage d'un service impossible si***
 
 * tag identique (ex: latest)
 * le fichier yaml docker est identique  
+* la config est identique
 
 note:
 

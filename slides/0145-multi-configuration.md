@@ -7,7 +7,9 @@ Environnements différents : dev / staging / prod
 * ajout de fichiers yml docker spécifiques
 * surcharge yml
 
-<br/>
-***docker stack deploy -c common.yml -c composant1.yml -c extend.composant1.yml***
+```sh
+docker stack deploy \
+  -c common.yml -c composant1.yml -c extend.composant1.yml
+```
 
 

@@ -1,6 +1,8 @@
 $background:images/background.svg$
 ## Configs docker
 ---
+TODO JPH
+
 Les fichiers de configuration sont partagés entre les nodes via le *raft log*
 * empêche de redémarrer une stack si un fichier de config n'a pas été modifié
 * utilisation d'une variable pour le nommage des configurations
