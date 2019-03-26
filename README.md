@@ -23,3 +23,10 @@ Starting from 0000, each file will be assigned a new number and so a new name.
 * use dash to separate words
 * a page should start with a ## title followed by a ---
 * use **note:** in end of slide to add speaker's note
+
+# Todo
+* stack-deploy et forcer-redemarrage sont dans un ordre bizar
+* swarm_hs => trop long
+* combien de fois les contraintes sont arrivé ?
+* Il y a deux fois recommandation
+* partie problème

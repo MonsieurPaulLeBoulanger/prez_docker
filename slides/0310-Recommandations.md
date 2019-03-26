@@ -11,5 +11,5 @@ deploy:
       memory: 256M
 ```
 
-* nombre de manager
+* dimensionner le nombre de manager
 * amélioration du build (multi-stage, layers...)

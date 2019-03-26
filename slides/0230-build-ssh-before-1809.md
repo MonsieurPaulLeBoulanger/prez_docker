@@ -1,5 +1,5 @@
 $background:images/background.svg$
-#### Dépendance npm avant Docker 18.09
+## Dépendance npm avant Docker 18.09
 ---
 ```sh
 npm install
