@@ -1,7 +1,7 @@
 $background:images/background.svg$
 ## Jenkins
 ---
-* scrute les commits sur les branches develop, staging et production
+* scrute les commits sur les branches
 * déclenche le build des images
 * déploie les composants
 * rolling update

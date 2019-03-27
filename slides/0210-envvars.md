@@ -8,9 +8,6 @@ Utilisation de variables d'environnement dans `docker-compose.yml` pour :
 
 ![envvars](images/envvars.png)
 
-```sh
-ENV=staging TAG=1.2.1 \
-  docker stack deploy -c docker-compose.yml stack_name
-```
 note:
+* ENV=staging TAG=1.2.1 docker stack deploy
 * peut-être remplacer par docker-app (trop jeune ?)

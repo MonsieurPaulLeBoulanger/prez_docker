@@ -1,12 +1,20 @@
 $background:images/background.svg$
-## Dépendance npm avant Docker 18.09
+## Propagation ssh avant Docker 18.09
 ---
-```sh
-npm install
-docker build -t .
-```
+
+*Impossible avant Docker 18.09*
+
+* compilation sur le host
+* construction de l'image avec les source compilé
 
 ![before-docker-1809](images/before-docker-1809.png)
 
 note: 
+* Cas d'usage : récupération de code source sur un dépôt privé
+* Avant Docker 18.09, impossibilité de forwarder un agent SSH dans un conteneur
 * Il faut s'assurer que la version de node et npm soit la même entre jenkins et le container
+
+```sh
+$ npm install
+$ docker build -t .
+```

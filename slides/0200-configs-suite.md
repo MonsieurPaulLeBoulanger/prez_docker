@@ -9,4 +9,4 @@ configs:
         name: config.json-${ISO_DATE}
         file: ${PWD}/config/studio.json
 ```
-/!\ nécessite Docker 17.12.0+ (compose format 3.5)
+✘ nécessite Docker 17.12.0+ (compose format 3.5)

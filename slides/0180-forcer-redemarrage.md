@@ -2,7 +2,7 @@ $background:images/background.svg$
 ## Forcer un Redémarrage
 ---
 
-utilisation d'une variable type timestamp
+*utilisation d'une variable type timestamp*
 * variable ISO_DATE définie et exportée par Olympus
 * ajout de cette variable dans le fichier yaml docker :
 ```

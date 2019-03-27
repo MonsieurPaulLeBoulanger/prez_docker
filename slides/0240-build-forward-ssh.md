@@ -1,9 +1,9 @@
 $background:images/background.svg$
-## Dépendance npm après Docker 18.09
+## Propagation ssh après Docker 18.09
 ---
 
 ```sh
-DOCKER_BUILDKIT=1 docker build --ssh default -t .
+$ DOCKER_BUILDKIT=1 docker build --ssh default -t .
 ```
 
 ![after-docker-1809](images/after-docker-1809.png)

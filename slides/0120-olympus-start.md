@@ -1,11 +1,12 @@
 $background:images/background.svg$
 ## Olympus : start
 ---
-* démarre des stacks correspondant à des domaines fonctionnels :  
+* démarre des stacks fonctionnelles :  
+  * frontend, backend, monitoring
+<br/><br/>
 
-***frontend, backend, monitoring...***
-* un fichier .yml par service, commité dans git
-* les fichiers yml peuvent être surchargés par des fichiers spécifiques non commités :  
-
- ***configuration pour un environnement, client on-premise...***
+* un fichier `yml` par service, commité dans git
+* les fichiers `yml` peuvent être surchargés :  
+  * configuration pour un environnement, 
+  * client on-premise
 
