@@ -3,11 +3,11 @@ $background:images/background.svg$
 ---
 <br/>
 
-* format declaratif
+* format déclaratif
 
 * gestion de la configuration d'infra
 
-* faciliter de deployement et scalabilité
+* deploiement, scalabilité et redondance
 
 note:
 * simplifie la gestion de la config pour le mode sass

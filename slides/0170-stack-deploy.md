@@ -5,7 +5,9 @@ $background:images/background.svg$
 ***Redémarrage d'un service impossible si***
 
 * tag identique (ex: latest) et
+
 * le fichier `docker-compose.yml` est identique et
+
 * la config est identique
 
 note:

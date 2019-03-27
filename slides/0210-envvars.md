@@ -4,6 +4,7 @@ $background:images/background.svg$
 Utilisation de variables d'environnement dans `docker-compose.yml` pour :
 * gestion develop/staging/production
 * configurer le logging syslog
+
 * définir les labels traefik
 
 ![envvars](images/envvars.png)

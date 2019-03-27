@@ -1,10 +1,12 @@
 $background:images/background.svg$
 ## Multi-configuration
 ---
-Environnements différents : dev / staging / prod  
+Configuration par environnements
 
 * fichiers yml docker de base fournis par Olympus
+
 * ajout de fichiers yml docker spécifiques
+
 * surcharge yml
 
 ```sh
@@ -13,3 +15,7 @@ docker stack deploy \
 ```
 
 
+note:
+
+* yml spécifiques: déclaration d'un service non prévu intiallement
+* surcharge du yml d'origine pour labels traefik, volumes, commande

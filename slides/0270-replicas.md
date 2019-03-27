@@ -2,6 +2,7 @@ $background:images/background.svg$
 ## Réplicas
 ---
 Non respect du nombre de réplicas sur un déploiement  
+
 * 4/3 replicas
 * sur les 4, un seul avec le bon tag
 ![replicas](images/replicas.png)
