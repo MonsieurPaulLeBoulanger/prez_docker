@@ -1,7 +1,8 @@
 $background:images/background.svg$
-## Réplication postgres
+### Intégration service non "docker-native"
 ---
 
+* Ex: Réplication postgres
 * Intégration avec docker difficile
 * Excellent travail de 2hamed https://github.com/2hamed/docker-pg-replication
 
