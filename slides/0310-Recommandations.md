@@ -12,4 +12,4 @@ deploy:
 ```
 
 * dimensionner le nombre de manager
-* amélioration du build (multi-stage, layers...)
+* optimiser les build (images, multi-stage, layers...)

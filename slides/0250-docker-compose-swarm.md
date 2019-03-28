@@ -3,6 +3,7 @@ $background:images/background.svg$
 ---
 * spécifications différentes entre fichiers docker-compose.yml et swarm
 
+<br/>
 ***Solution***
 * activation du Swarm même en developement
 * utilisation d'Olympus pour le pilotage

@@ -20,3 +20,12 @@
 .reveal pre {
   width: 100%;
 }
+
+.fragment{
+  text-align: left;
+}
+
+.reveal img, .reveal video, .reveal iframe {
+  max-width: 100%;
+  max-height: 100%;
+}

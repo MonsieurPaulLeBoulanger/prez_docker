@@ -1,12 +1,17 @@
 $background:images/background.svg$
 ## Olympus : start
 ---
-* démarre des stacks fonctionnelles :  
-  * frontend, backend, monitoring
-<br/><br/>
+* permet le démarrage des services :
 
-* un fichier `yml` par service, commité dans git
-* les fichiers `yml` peuvent être surchargés :  
-  * configuration pour un environnement, 
-  * client on-premise
+  * par stack fonctionnelle (on-premise)
+
+  * unitairement en Saas
+
+```sh
+$ make start stack=web
+```
+<br/>
+```sh
+$ make start stack=web service=studio
+```
 

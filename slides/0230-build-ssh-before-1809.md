@@ -5,7 +5,8 @@ $background:images/background.svg$
 *Impossible avant Docker 18.09*
 
 * compilation sur le host
-* construction de l'image avec les source compilé
+
+* construction de l'image avec les sources compilées
 
 ![before-docker-1809](images/before-docker-1809.png)
 

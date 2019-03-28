@@ -3,12 +3,11 @@ $background:images/background.svg$
 ---
 
 * Ex: Réplication postgres
+
 * Intégration avec docker difficile
 * Excellent travail de 2hamed https://github.com/2hamed/docker-pg-replication
 
 <br/>
-<br/>
-
 ```sh
 docker service scale my_pg_replication_slave=8
 ```
