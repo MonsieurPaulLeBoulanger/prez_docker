@@ -1,7 +1,6 @@
 $background:images/background.svg$
 ## Propagation ssh après Docker 18.09
 ---
-<br/>
 ```sh
 $ DOCKER_BUILDKIT=1 docker build --ssh default -t .
 ```

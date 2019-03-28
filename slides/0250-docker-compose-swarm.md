@@ -1,13 +1,16 @@
 $background:images/background.svg$
 ## Docker-compose vs Swarm
 ---
-* spécifications différentes entre fichiers docker-compose.yml et swarm
 
-<br/>
+<section>
+  <p class="fragment fade-up">• spécifications différentes entre fichiers docker-compose.yml et swarm<br/></p>
 
-***Solution***
-* activation du Swarm même en developement
-* utilisation d'Olympus pour le pilotage
+
+  <p class="fragment fade-up"><br/>Solution :</p>
+  <p class="fragment fade-up">• activation du Swarm même en dévelopement</p>
+  <p class="fragment fade-up">• utilisation d'Olympus pour le pilotage</p>
+</section>
+
 
 note:
 * clé `deploy` supporté uniquement en mode swarm
