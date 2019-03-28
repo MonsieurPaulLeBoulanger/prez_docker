@@ -7,4 +7,11 @@ $background:images/background.svg$
 
   * unitairement en Saas
 
-TODO: ex de commandes
+```sh
+$ make start stack=web
+```
+<br/>
+```sh
+$ make start stack=web service=studio
+```
+

@@ -5,11 +5,12 @@ $background:images/background.svg$
 
 * utilisation historique des containers (1 par client)
 
-* volonté de passer sur un mode `sass`
-
 * 1 image = code + config
 
 * container statefull
+
+* volonté de passer sur un mode `sass`
+
 
 note:
 * pk sass ? => maintenance complèxe
