@@ -10,7 +10,9 @@ $background:images/background.svg$
 ```sh
 $ make start stack=web
 ```
+
 <br/>
+
 ```sh
 $ make start stack=web service=studio
 ```

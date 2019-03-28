@@ -15,5 +15,5 @@ $background:images/background.svg$
 
 * volumes amazon EBS avec le plugin rexray
 
-notes:
+note:
 Volumes amazon pour persistance et rattachement à une instance volatile
