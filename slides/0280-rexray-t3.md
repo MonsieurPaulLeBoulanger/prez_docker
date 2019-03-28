@@ -5,9 +5,11 @@ $background:images/background.svg$
 
 permet d'utiliser des volumes amazon (EBS)
 
-* incompatibilité avec les instances EC2 t3
+* incompatibilité avec les instances EC2 t3 (=> 01/2019)
 
-* interface de disque NVMe (/dev/nvme0n1p1)
+* règle udev à définir
+
+* +7 mois entre issue et fix
 
 ***utilisation d'instances t2***
 
