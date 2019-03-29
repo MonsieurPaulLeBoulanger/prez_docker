@@ -1,5 +1,5 @@
 $background:images/background.svg$
-### Intégration service non "docker-native"
+## Intégration service non "docker-native"
 ---
 
 * Ex: Réplication postgres
@@ -7,12 +7,10 @@ $background:images/background.svg$
 * Intégration avec docker difficile
 * Excellent travail de 2hamed https://github.com/2hamed/docker-pg-replication
 
-<br/>
 ```sh
 docker service scale my_pg_replication_slave=8
 ```
-
-```
+```sh
 max_wal_senders = 8
 ```
 
