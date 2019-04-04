@@ -7,7 +7,7 @@ $background:images/background.svg$
 
 
   <p class="fragment fade-up"><br/>Solution :</p>
-  <p class="fragment fade-up">• activation du Swarm même en dévelopement</p>
+  <p class="fragment fade-up">• utilisation de docker swarm uniquement</p>
   <p class="fragment fade-up">• utilisation d'Olympus pour le pilotage</p>
 </section>
 
