@@ -10,7 +10,7 @@ $background:images/background.svg$
 
 * la config est identique
 
-note:
+note: @r
 * si un service est KO il faut passer par scale=0 ou docker service update
 * pas d'option --force sur le docker stack deploy
 

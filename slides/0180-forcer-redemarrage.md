@@ -15,6 +15,6 @@ services:
 
 -> le service sera bien redémarré sur une action ***deploy***
 
-note:
+note: @jp
 * pas besoin d'avoir une commande spécifique de restart
 * sert si par ex conteneur est planté mais pas exit

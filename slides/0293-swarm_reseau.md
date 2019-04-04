@@ -13,3 +13,4 @@ telnet postgres 5432
    => timeout
 * ***redémarrage du manager***
 
+note: @jp

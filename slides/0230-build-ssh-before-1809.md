@@ -10,7 +10,7 @@ $background:images/background.svg$
 
 ![before-docker-1809](images/before-docker-1809.png)
 
-note: 
+note: @r
 * Cas d'usage : récupération de code source sur un dépôt privé
 * Avant Docker 18.09, impossibilité de forwarder un agent SSH dans un conteneur
 * Il faut s'assurer que la version de node et npm soit la même entre jenkins et le container

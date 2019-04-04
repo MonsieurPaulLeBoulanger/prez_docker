@@ -12,7 +12,7 @@ $background:images/background.svg$
 </section>
 
 
-note:
+note: @jp
 * clé `deploy` supporté uniquement en mode swarm
 * la doc de référence docker est clair
 * perte de feature `extends` `depends_on`

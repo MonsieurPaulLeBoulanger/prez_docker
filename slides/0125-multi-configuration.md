@@ -15,7 +15,7 @@ docker stack deploy \
 ```
 
 
-note:
+note: @jp
 
 * yml spécifiques: déclaration d'un service non prévu intiallement
 * surcharge du yml d'origine pour labels traefik, volumes, commande

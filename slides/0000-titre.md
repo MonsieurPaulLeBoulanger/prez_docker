@@ -2,3 +2,5 @@
 ---
 
 ![bouquet](images/docker_chez_bouquet.svg)
+
+note: @romain

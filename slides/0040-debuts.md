@@ -12,7 +12,7 @@ $background:images/background.svg$
 * volonté de passer sur un mode `sass`
 
 
-note:
+note: @r
 * pk sass ? => maintenance complèxe
 * code + config = imcompatible mode sass
 * statefull = incompatible mode sass

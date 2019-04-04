@@ -10,7 +10,7 @@ $background:images/background.svg$
 </section>
 
 
-note: 
+note: @r @jp
 * 1 job par environnement
 * un service est déployer avec `docker stack deploy`
   * syntax déclarative avec docker-compose.yml

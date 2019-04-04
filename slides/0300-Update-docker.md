@@ -9,3 +9,5 @@ $background:images/background.svg$
   <p class="fragment fade-up">• à nouveau update en 18.09.3</p>
   <p class="fragment fade-up">• RAS en staging, même problème rencontré en production</p>
 </section>
+
+note: @jp

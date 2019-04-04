@@ -11,7 +11,7 @@ $background:images/background.svg$
   * équilibre la charge au sein du swarm
 
 
-note: 
+note: @jp
 - ASG : Auto Scaling Group
 - ELB : pas d'intervention si ajout suppression de noeuds
 - Si suppression Traefik, besoin de connaitre l'ip d'au moins un traefik

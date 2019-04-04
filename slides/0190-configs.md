@@ -8,3 +8,5 @@ failed to update config NGINX_local_config:
 Error response from daemon: rpc error: 
 code = InvalidArgument desc = only updates to Labels are allowed
 ```
+
+note: @jp

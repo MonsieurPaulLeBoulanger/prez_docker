@@ -14,6 +14,6 @@ docker service scale my_pg_replication_slave=8
 max_wal_senders = 8
 ```
 
-note:
+note: @r
 * perte de synchro
 * la scalabilité n'est pas automatique

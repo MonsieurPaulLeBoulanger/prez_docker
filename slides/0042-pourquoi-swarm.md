@@ -9,7 +9,7 @@ $background:images/background.svg$
 
 * deploiement, scalabilité et redondance
 
-note:
+note: @r
 * simplifie la gestion de la config pour le mode sass
 * seule la conf différencie les clients
 * rolling update

@@ -14,3 +14,5 @@ deploy:
 * dimensionner le nombre de manager
 * optimiser les build (images, multi-stage, layers...)
 * bien penser au **demote** des managers
+
+note: @jp

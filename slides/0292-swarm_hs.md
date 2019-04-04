@@ -10,7 +10,7 @@ $background:images/background.svg$
 </section>
 
 
-note:
+note: @jp
 * plus problématique si le leader tombe
 --force-new-cluster supprimer tous les managers du swarm sauf celui sur lequel nous sommes
 permet normalement de ré ajouter els autres managers, ne fonctionne pas dans notre cas

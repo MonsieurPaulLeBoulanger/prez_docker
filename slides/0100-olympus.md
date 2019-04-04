@@ -8,3 +8,5 @@ $background:images/background.svg$
   <p class="fragment fade-up">• déploie les stacks & composants</p>
   <p class="fragment fade-up">• piloté par jenkins pour le Saas</p>  
 </section>
+
+note: @jp

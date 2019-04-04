@@ -11,5 +11,5 @@ $background:images/background.svg$
   <p class="fragment fade-up">• pas toujours suffisant...</p>
 </section>
 
-note: 
+note: @jp
 Cela ne vient probablement pas que de Docker Swarm

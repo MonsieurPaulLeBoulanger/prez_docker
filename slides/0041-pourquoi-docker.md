@@ -7,7 +7,7 @@ $background:images/background.svg$
 
 ![stack](images/stack.png)
 
-note:
+note: @r
 * plusieurs briques : `java`, `node`, `python`
 * docker build est rapide (force de docker)
 

@@ -12,3 +12,5 @@ configs:
 ```
 <br/>
 ⚠ nécessite Docker 17.12.0+ (compose format 3.5)
+
+note: @jp
