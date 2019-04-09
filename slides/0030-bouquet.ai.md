@@ -8,6 +8,6 @@ $background:images/background.svg$
 
 * Aristotle : Assistant personnel pour l'analyse de données, chatbot.
 
-* Slack / Skype / Messenger / MS Teams / Alexa / ejabberd  
+* Slack / Skype / Messenger / MS Teams / Alexa 
 
 note: @jp
