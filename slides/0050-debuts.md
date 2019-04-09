@@ -9,10 +9,10 @@ $background:images/background.svg$
 
 * container statefull
 
-* volonté de passer sur un mode `sass`
+* volonté de passer sur un mode `saas`
 
 
 note: @r
-* pk sass ? => maintenance complèxe
-* code + config = imcompatible mode sass
-* statefull = incompatible mode sass
+* pk saas ? => maintenance complèxe
+* code + config = imcompatible mode saas
+* statefull = incompatible mode saas
