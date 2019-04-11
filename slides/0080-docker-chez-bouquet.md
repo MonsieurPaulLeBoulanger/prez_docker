@@ -1,7 +1,7 @@
 $background:images/background.svg$
 ## Docker chez Bouquet
 ---
-* AWS
+* AWS (t2 et t3)
 
 * Swarm (mais pas que)
 

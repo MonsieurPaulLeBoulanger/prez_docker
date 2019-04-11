@@ -2,8 +2,5 @@ $background:images/background.svg$
 ## Docker Swarm
 ---
 
+* gestionnaire de cluster
 * orchestrateur de conteneurs
-* utilisation d'un format déclaratif
-* répartition de charge
-* scalabilité
-* rolling update
