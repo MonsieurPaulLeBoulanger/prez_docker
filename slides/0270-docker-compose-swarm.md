@@ -2,13 +2,12 @@ $background:images/background.svg$
 ## Docker-compose vs Swarm
 ---
 
+* spécifications différentes entre fichiers docker-compose.yml et swarm
+
 <section>
-  <p class="fragment fade-up">• spécifications différentes entre fichiers docker-compose.yml et swarm<br/></p>
-
-
-  <p class="fragment fade-up"><br/>Solution :</p>
-  <p class="fragment fade-up">• utilisation de docker swarm uniquement</p>
-  <p class="fragment fade-up">• utilisation d'Olympus pour le pilotage</p>
+  <p class="fragment fade-up"><br/>Solution :<br/>
+• utilisation de docker swarm uniquement<br/>
+• utilisation d'Olympus pour le pilotage</p>
 </section>
 
 

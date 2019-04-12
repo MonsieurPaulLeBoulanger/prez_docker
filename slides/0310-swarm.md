@@ -2,14 +2,17 @@ $background:images/background.svg$
 ## Instabilité Swarm
 ---
 
-<section>
-  <p class="fragment fade-up">• perte d'un noeud peut entrainer une <b>Docker Swarm Dance</b></p>
-  <p class="fragment fade-up">• stabilité accrue avec <b>5 managers</b></p>
-  <p class="fragment fade-up">• noeud devient <b>unreachable</b> ou <b>down</b> ou <b>les 2</b></p>
-  <p class="fragment fade-up">• quitter le swarm puis le rejoindre</p>
-  <p class="fragment fade-up">• nécessite <b>demote</b> pour un manager</p>
-  <p class="fragment fade-up">• pas toujours suffisant...</p>
-</section>
+* perte d'un noeud peut entrainer une ***Swarm Dance***
+  * noeud devient ***unreachable*** ou ***down*** ou ***les 2***
+  * stabilité accrue avec 5 managers
+
+* parfois irrémédiable
+  * --force-new-cluster ne suffit pas toujours
+  * création nouveau swarm
+  
+* inconsitance réseau
+
+
 
 note: @jp
 Cela ne vient probablement pas que de Docker Swarm

@@ -1,11 +1,12 @@
 $background:images/background.svg$
-## Here comes a new challenger : Olympus
+## Développement interne : Olympus
 ---
-<section>
-  <p class="fragment fade-up">• ensemble de scripts bash</p>
-  <p class="fragment fade-up">• construit les images docker</p>
-  <p class="fragment fade-up">• déploie les stacks</p>
-  <p class="fragment fade-up">• piloté par jenkins pour le Saas</p>  
-</section>
+* ensemble de scripts bash
+
+* construit les images docker
+
+* déploie les stacks
+
+* piloté par jenkins pour le Saas
 
 note: @jp

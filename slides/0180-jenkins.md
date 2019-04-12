@@ -1,13 +1,11 @@
 $background:images/background.svg$
 ## Jenkins
 ---
-<section>
-  <p class="fragment fade-up">• scrute les commits sur les branches</p>
-  <p class="fragment fade-up">• déclenche le build des images</p>
-  <p class="fragment fade-up">• déploie les composants</p>
-  <p class="fragment fade-up">• en rolling update</p>
-  <p class="fragment fade-up">• exécute un job de vérification sur le tag, le nombre de réplicas et un accès à la page de status</p>
-</section>
+* scrute les commits sur les branches
+* déclenche le build des images
+* déploie les composants
+* en rolling update
+* exécute un job de vérification sur le tag, le nombre de réplicas et un accès à la page de statut
 
 
 note: @r @jp
