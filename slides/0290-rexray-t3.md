@@ -1,17 +1,14 @@
 $background:images/background.svg$
 ## Plugin rexray
 ---
-<br/>
+***permet d'utiliser des volumes amazon (EBS)***
 
-permet d'utiliser des volumes amazon (EBS)
+* incompatibilité avec les instances EC2 t3 (01/2019)
+  * règle udev à définir
+  * +7 mois entre issue et fix
 
-* incompatibilité avec les instances EC2 t3 (=> 01/2019)
-
-* règle udev à définir
-
-* +7 mois entre issue et fix
-
-***utilisation temporaire d'instances t2***
+* erreur aléatoire RexRay après docker update
+  * update 18.09.1 à 18.09.3 (CVE-2019-5736)
 
 note: Jean-philippe
 
