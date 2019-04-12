@@ -9,4 +9,4 @@ Error response from daemon: rpc error:
 code = InvalidArgument desc = only updates to Labels are allowed
 ```
 
-note: @jp
+note: Jean-philippe

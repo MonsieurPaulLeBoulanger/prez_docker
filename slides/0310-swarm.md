@@ -14,5 +14,6 @@ $background:images/background.svg$
 
 
 
-note: @jp
+note: Jean-philippe
+
 Cela ne vient probablement pas que de Docker Swarm

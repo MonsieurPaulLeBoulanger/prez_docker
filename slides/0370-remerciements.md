@@ -3,8 +3,11 @@ $background:images/background.svg$
 ---
 
 * Docker: https://www.docker.com
-* Peaks :)
+
+* Peaks: https://peaks.fr
+
 * Bouquet.ai: https://www.bouquet.ai
+
 * ByteClub & Delapouite: https://github.com/byteclubfr
 
 

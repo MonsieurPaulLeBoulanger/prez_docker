@@ -10,4 +10,4 @@ $background:images/background.svg$
 * update en 18.09.3 ok
 
 
-note: @jp
+note: Jean-philippe

@@ -10,4 +10,4 @@ $background:images/background.svg$
 
 * Slack / Skype / Messenger / MS Teams / Alexa 
 
-note: @jp
+note: Jean-philippe
