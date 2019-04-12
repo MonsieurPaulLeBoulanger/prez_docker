@@ -3,13 +3,16 @@ $background:images/background.svg$
 ---
 <br/>
 
-* format déclaratif
+* orchestrateur de conteneurs
+
+* format déclaratif avec `docker-compose.yml`
 
 * gestion de la configuration d'infra
 
-* deploiement, scalabilité et redondance
+* **feature**
+  * scalabilité 
+  * redondance
+  * deploiement (rolling update)
 
-note: @r
-* simplifie la gestion de la config pour le mode saas
-* seule la conf différencie les clients
-* rolling update
+note: romain
+* petite équipe avec un petit besoin au début

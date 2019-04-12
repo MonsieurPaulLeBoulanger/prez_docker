@@ -9,4 +9,4 @@ $background:images/background.svg$
 
 * piloté par jenkins pour le Saas
 
-note: @jp
+note: Jean-philippe

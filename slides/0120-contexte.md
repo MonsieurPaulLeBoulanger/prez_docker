@@ -7,4 +7,4 @@ $background:images/background.svg$
   
 -> **uniformisation nécessaire des méthodes de build et de déploiement**
 
-note: @r
+note: romain

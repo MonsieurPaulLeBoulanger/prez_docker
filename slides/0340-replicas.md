@@ -9,5 +9,6 @@ Non respect du nombre de réplicas sur un déploiement
 * docker service scale=3 sans effet
 * scale=0 puis scale=3
 
-note: @jp
+note: Jean-philippe
+
 peut-être recontré en cas d'erreur sur le déploiement genre contrainte de déploiement temporairement non satisfaite

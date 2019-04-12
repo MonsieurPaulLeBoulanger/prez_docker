@@ -12,7 +12,6 @@ $background:images/background.svg$
 * volonté de passer sur un mode `saas`
 
 
-note: @r
-* pk saas ? => maintenance complèxe
+note: romain
 * code + config = imcompatible mode saas
 * statefull = incompatible mode saas

@@ -6,13 +6,12 @@ $background:images/background.svg$
 
 * tag identique (ex: latest) et
 
-* le fichier `docker-compose.yml` est identique et
+* le fichier `docker-compose.yml` est identique
 
 * la config est identique
 
-note: @r
-* si un service est KO il faut passer par scale=0 ou docker service update
+note: romain
+* scale=0 scale=3
+* docker service update
 * pas d'option --force sur le docker stack deploy
-
-* Exemple de déploiement qui passe sur jenkins mais aucun changement visible en prod
 
