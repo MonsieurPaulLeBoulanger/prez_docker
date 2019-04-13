@@ -5,4 +5,4 @@ $background:images/background.svg$
 *something broke*
 ![dead](images/dead.svg)
 
-note: romain
+note: Jean-philippe

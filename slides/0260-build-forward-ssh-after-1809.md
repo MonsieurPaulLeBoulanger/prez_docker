@@ -12,3 +12,4 @@ $ DOCKER_BUILDKIT=1 docker build --ssh default -t .
 * ***--progress=plain*** permet de debugger la sortie du build plus facilement
 
 note: romain
+* RUN ssh-keyscan github.com >> ~/.ssh/known_hosts
