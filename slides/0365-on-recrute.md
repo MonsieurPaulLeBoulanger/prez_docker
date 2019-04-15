@@ -1,12 +1,26 @@
 $background:images/background.svg$
 ## On recrute !
 ---
-![bouquet](images/bouquet_small.svg)
-* 1 développeur-euse python
-* 1 développeur-euse node.js
-* 1 ingénieur-e QA
 
-![bouquet](images/peaks.png)
-* 1 consultant-e devops
+<table>
+ <tr>
+   <td><img src="images/bouquet_small.svg"></td>
+   <td>
+     <ul>
+       <li>1 développeur-euse python</li>
+       <li>1 développeur-euse node.js</li>
+       <li>1 ingénieur-e QA</li>
+     </ul>
+   </td>
+ </tr>
+ <tr>
+   <td><br/><img src="images/peaks.png"></td>
+   <td><br/>
+     <ul>
+       <li>1 consultant-e devops</li>
+     </ul>
+   </td>
+ </tr>
+</table>
 
 note: jean-philippe romain
