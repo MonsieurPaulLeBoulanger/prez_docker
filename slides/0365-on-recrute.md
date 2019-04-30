@@ -1,10 +1,9 @@
 $background:images/background.svg$
 ## On recrute !
 ---
-
 <table>
  <tr>
-   <td><img src="images/bouquet_small.svg"></td>
+   <td><img src="images/bouquet_small.svg" align="right"></td>
    <td>
      <ul>
        <li>1 développeur-euse python</li>
@@ -14,8 +13,8 @@ $background:images/background.svg$
    </td>
  </tr>
  <tr>
-   <td><br/><img src="images/peaks.png"></td>
-   <td><br/>
+   <td></br><img src="images/logo_peaks.svg" align="right"></td>
+   <td><p > &nbsp;</p>
      <ul>
        <li>1 consultant-e devops</li>
      </ul>
