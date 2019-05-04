@@ -1,7 +1,6 @@
 $background:images/background.svg$
 ## Pourquoi Swarm
 ---
-<br/>
 
 * orchestrateur de conteneurs
 
@@ -9,7 +8,7 @@ $background:images/background.svg$
 
 * gestion de la configuration d'infra
 
-* **feature**
+* **features**
   * scalabilité 
   * redondance
   * deploiement (rolling update)

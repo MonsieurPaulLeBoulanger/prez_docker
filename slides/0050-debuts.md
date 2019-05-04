@@ -3,11 +3,11 @@ $background:images/background.svg$
 ---
 <br/>
 
-* utilisation historique des containers (1 par client)
+* utilisation historique des conteneurs (1 par client)
 
 * 1 image = code + config
 
-* container statefull
+* conteneur ***statefull***
 
 * volonté de passer sur un mode `saas`
 
