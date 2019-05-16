@@ -3,7 +3,7 @@ $background:images/background.svg$
 ---
 Non respect du nombre de réplicas sur un déploiement  
 
-* 4/3 replicas
+* 4/3 réplicas
 * sur les 4, un seul avec le bon tag
 ![replicas](images/replicas.png)
 * docker service scale=3 sans effet
