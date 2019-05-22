@@ -5,3 +5,8 @@ $background:images/background.svg$
 
 * Jean-Philippe Huguet, SRE @bouquet.ai
 
+note: 
+demander:
+- kubernets
+- swarm
+- swarm en prod
