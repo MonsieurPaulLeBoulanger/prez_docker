@@ -8,6 +8,8 @@ $background:images/background.svg$
 
 * déploie les composants
 
+* configuration chiffrée (sops)
+
 * en rolling update
 
 * exécute un job de vérification sur le tag, le nombre de réplicas et un accès à la page de statut
